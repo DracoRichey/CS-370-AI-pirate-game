@@ -1,1 +1,14 @@
 # CS-370-AI-pirate-game
+Project Overview
+This project demonstrates my ability to apply reinforcement learning and neural network concepts to solve a real-world problem. The pirate intelligent agent project involved training an AI agent to navigate a maze environment in search of treasure using reinforcement learning techniques. The goal was to teach the agent to make decisions that lead to success through experience and feedback, similar to how humans learn from trial and error.
+
+Work Completed
+For this project, I was provided with a starter codebase that included the environment setup, basic maze structure, and supporting functions for visualization. I created and customized several parts of the code myself, including defining the Q-learning training loop, setting the parameters for exploration and learning, and connecting the neural network model to the agent’s decision-making process. I also adjusted the reward system and trained the model to improve its performance over time. Through debugging and experimentation, I learned how different variables like epsilon, memory size, and discount factors affect the agent’s learning process.
+
+Connection to Computer Science
+Computer scientists design systems and algorithms that solve problems, automate processes, and create new opportunities for innovation. This project showed how computer science can be used to simulate intelligent behavior in a controlled environment. Reinforcement learning is a major area within AI that applies computer science principles to teach machines to make decisions autonomously. By developing this project, I gained hands-on experience in how computer scientists use data, logic, and programming to design systems that learn and adapt.
+
+When approaching a problem as a computer scientist, I first break it down into smaller, manageable parts and identify the logic behind each process. I analyze inputs, expected outputs, and feedback loops, then design algorithms to achieve the desired result efficiently. In this project, I used that same approach by understanding the maze’s structure, defining the agent’s possible actions, and iteratively testing and improving the model.
+
+Ethical Responsibilities
+As a computer scientist, I have ethical responsibilities to both the end user and the organization. This includes ensuring that AI systems are designed safely, fairly, and transparently. It’s important that models are trained on unbiased data and that users can trust the outcomes produced by AI systems. I also have a responsibility to respect privacy, prevent misuse of technology, and consider the potential impact of AI decisions. For this project, that means designing an agent that behaves predictably, follows clear rules, and can be applied responsibly in real-world decision-making systems.
