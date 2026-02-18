@@ -1,4 +1,4 @@
-# CS-370-AI-pirate-game
+# CS-370-Machinelearning-pirate-game
 Project Overview
 This project demonstrates my ability to apply reinforcement learning and neural network concepts to solve a real-world problem. The pirate intelligent agent project involved training an AI agent to navigate a maze environment in search of treasure using reinforcement learning techniques. The goal was to teach the agent to make decisions that lead to success through experience and feedback, similar to how humans learn from trial and error.
 
